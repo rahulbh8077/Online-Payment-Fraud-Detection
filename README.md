@@ -34,7 +34,7 @@ This project provides an interactive dashboard for monitoring transaction activi
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack:-
 
 ### Frontend
 - HTML5
