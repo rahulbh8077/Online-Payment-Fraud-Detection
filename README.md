@@ -14,7 +14,7 @@ This project provides an interactive dashboard for monitoring transaction activi
 
 ---
 
-## 🚀 Features
+## 🚀 Features:-
 
 - 🔍 Real-Time Fraud Detection
 - 🤖 Machine Learning-Based Prediction
