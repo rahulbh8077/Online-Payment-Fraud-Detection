@@ -21,7 +21,7 @@ This project provides an interactive dashboard for monitoring transaction activi
 - 📊 Interactive Analytics Dashboard.
 - ⚠️ Fraud Risk Score Calculation.
 - 📈 Transaction Monitoring.
-- 🌍 Location & Device Verification
+- 🌍 Location & Device Verification.
 - 🧠 User Behavior Analysis
 - 🚨 Instant Fraud Alerts
 - 📑 Transaction History
