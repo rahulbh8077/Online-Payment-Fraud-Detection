@@ -20,7 +20,7 @@ This project provides an interactive dashboard for monitoring transaction activi
 - 🤖 Machine Learning-Based Prediction.
 - 📊 Interactive Analytics Dashboard.
 - ⚠️ Fraud Risk Score Calculation.
-- 📈 Transaction Monitoring
+- 📈 Transaction Monitoring.
 - 🌍 Location & Device Verification
 - 🧠 User Behavior Analysis
 - 🚨 Instant Fraud Alerts
