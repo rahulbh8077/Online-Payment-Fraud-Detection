@@ -6,7 +6,7 @@ An intelligent **Online Payment Fraud Detection System** designed to identify fr
 
 ## 📖 Introduction:-
 
-The rapid growth of digital payments has transformed the financial industry, but it has also increased the risk of online payment fraud. Fraudulent transactions can lead to significant financial losses, identity theft, and reduced customer trust.
+The rapid growth of the digital payments has transformed the financial industry, but it has also increased the risk of online payment fraud. Fraudulent transactions can lead to significant financial losses, identity theft, and reduced customer trust.
 
 The **Online Payment Fraud Detection System** leverages data analytics and machine learning algorithms to automatically identify suspicious transactions based on multiple factors such as transaction amount, user behavior, payment frequency, location, and device information. By analyzing these patterns, the system assigns a fraud probability score and flags potentially fraudulent transactions for further investigation.
 
